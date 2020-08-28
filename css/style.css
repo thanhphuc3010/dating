@@ -13,6 +13,10 @@ body{
 	overflow-x: hidden;
 }
 
+p {
+	display: none;
+}
+
 h1 {
 	font-weight: 200;
 }
@@ -50,7 +54,7 @@ header i{
 .line{
 	width: 80%;
 	height: 2px;
-	background-color:  #47b1ef!important;
+	background-color:  #96c6e2!important;
 	margin: 30px 10%;
 }
 main .carousel .carousel-inner{
